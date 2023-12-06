@@ -21,3 +21,8 @@ Continuous Integration and Delivery (CI/CD): MLOps borrows the CI/CD philosophy 
 Feedback Loop and Model Updating: An essential aspect of MLOps is the establishment of a feedback loop. Real-world application insights are fed back to improve and refine the model, ensuring its adaptability and longevity.
 
 Collaboration and Governance: MLOps emphasizes the need for effective collaboration tools and platforms, facilitating seamless interaction among team members. Governance, ethical considerations, and compliance with regulatory standards are also paramount in this lifecycle.
+
+
+
+
+**Sending A pull request**
